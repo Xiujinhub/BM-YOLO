@@ -1,5 +1,5 @@
-# OpenAccess
-Some open access codes
+# SMP-YOLOv10
+codes for SMP-YOLOv10
 
 ## Dataset
 ###
