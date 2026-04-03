@@ -1,5 +1,5 @@
 # SMP-YOLOv10
-codes for SMP-YOLOv10: A Novel Framework for Real-Time Defect Detection in Breathable Membrane
+codes for SMP-YOLOv10: A Novel Framework for Real-Time Defect Detection in Breathable Membrane   
 The code will be made public following the publication of the article.
 ## Dataset
 ###
